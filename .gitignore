@@ -1,3 +1,6 @@
 .DS_Store
 build/
-.nso
+*.nso
+*.nacp
+*.pfs0
+*.elf
